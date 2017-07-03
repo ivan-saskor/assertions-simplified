@@ -1,6 +1,6 @@
 {
   "name": "assertions-simplified",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A collection of simple runtime assertions inspired by Facebook's invariant and warning.",
   "main": "lib/index.js",
   "scripts": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ivan-saskor/context-simplified.git"
+    "url": "git+https://github.com/ivan-saskor/assertions-simplified.git"
   },
   "keywords": [
     "simple",
